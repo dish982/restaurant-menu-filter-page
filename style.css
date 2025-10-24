@@ -1,0 +1,48 @@
+.navcss{
+    margin-top: 3vh;
+}
+
+.nav-list{
+    font-weight: 500;
+}
+
+.carousel-item {
+    height: 60vh;
+}
+
+.modalcss{
+    background-color:cadetblue;
+    color: black;
+    height: 8vh;
+    width: 25vh;
+    font-size: 3vh; 
+}
+
+.z-high {
+    z-index: 9999;
+}
+
+.tabcss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-tabs{
+    border-bottom: none;
+}
+
+.menu {
+    background-color: antiquewhite;
+}
+
+.resMenu {
+    color: darkmagenta;
+}
+
+
