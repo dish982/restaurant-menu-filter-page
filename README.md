@@ -43,4 +43,14 @@ Simply open the index.html file in any browser.
 3. When a filter button is clicked, the script dynamically displays only the matching items.
 4. Clicking “All” restores the full menu.
 
+![Restaurant Menu Screenshot](images/screenshot.jpg)
+
+### ⚠️ Note
+This project is for demonstration purposes only.
+It is intended as a portfolio/learning project.
+Please do not reuse or distribute the code without permission.
+
+### 👩‍💻 Author
+Created by [Disha](github.com/dish982)
+⭐ Feel free to star the repo if you like it!
 
