@@ -28,4 +28,4 @@ It displays a dummy restaurant menu and allows users to filter items by category
 
 ### 1️⃣ Clone this repository
 ```
-git clone https://github.com/dish982/restaurant-menu-filter-page.git
+https://github.com/dish982/restaurant-menu-filter-page.git
