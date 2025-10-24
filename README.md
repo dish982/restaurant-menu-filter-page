@@ -29,3 +29,18 @@ It displays a dummy restaurant menu and allows users to filter items by category
 ### 1️⃣ Clone this repository
 ```
 https://github.com/dish982/restaurant-menu-filter-page.git
+```
+
+### 2️⃣ Navigate to the project folder
+```cd restaurant-menu-filter-page```
+
+### 3️⃣ Open in your browser
+Simply open the index.html file in any browser.
+
+### 💡 How It Works
+1. The menu items are stored in a JavaScript array.
+2. Each item has a category (Appetizer, Dessert, etc.).
+3. When a filter button is clicked, the script dynamically displays only the matching items.
+4. Clicking “All” restores the full menu.
+
+
