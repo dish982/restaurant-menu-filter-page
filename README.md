@@ -32,7 +32,9 @@ https://github.com/dish982/restaurant-menu-filter-page.git
 ```
 
 ### 2️⃣ Navigate to the project folder
-```cd restaurant-menu-filter-page```
+```
+cd restaurant-menu-filter-page
+```
 
 ### 3️⃣ Open in your browser
 Simply open the index.html file in any browser.
