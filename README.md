@@ -53,6 +53,6 @@ It is intended as a portfolio/learning project.
 Please do not reuse or distribute the code without permission.
 
 ### 👩‍💻 Author
-Created by [Disha](github.com/dish982)
-⭐ Feel free to star the repo if you like it!
+
+Made with ❤️ by [Disha](github.com/dish982)<br>
 
